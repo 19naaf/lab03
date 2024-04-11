@@ -21,7 +21,12 @@ header{
 }
 
 .img-header{
-    background-image: url('images/apple-pie.jpg');
+    background-image: url('/lab03/images/apple-pie.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+.img-header2{
+    background-image: url('/lab03/images/soup.jpg');
     background-size: cover;
     background-position: center center;
 }
